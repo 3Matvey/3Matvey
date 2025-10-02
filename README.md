@@ -1,4 +1,4 @@
-### 📫 Контакты
+### 📫 Contacts
 <a href="https://t.me/Pram1en4yk" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40"/>
 </a>
@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ Технологии и инструменты
+### ⚡ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
@@ -19,6 +19,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </p>
+
+---
+
+### 🚀 About me
+- 💻 Specializing in **backend development with .NET**  
+- 🛠 Experience with **ASP.NET Core**, **EF Core**, **REST APIs**  
+- 📦 Containerization with **Docker**  
+- 🗄 Databases: **PostgreSQL**, familiar with **SQL Server**  
+- ⚡ Strong interest in clean code, scalability, and DevOps practices  
