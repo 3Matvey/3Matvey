@@ -24,9 +24,3 @@
 
 ---
 
-### 🚀 About me
-- 💻 Specializing in **backend development with .NET**  
-- 🛠 Experience with **ASP.NET Core**, **EF Core**, **REST APIs**  
-- 📦 Containerization with **Docker**  
-- 🗄 Databases: **PostgreSQL**, familiar with **SQL Server**  
-- ⚡ Strong interest in clean code, scalability, and DevOps practices  
