@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 <a href="mailto:andrianov8m@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40"/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.IWEfDpzqd7r0aQTOevysagHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40"/>
 </a>
 
 ---
