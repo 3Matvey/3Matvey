@@ -1,4 +1,4 @@
-# Hi there
+### Hi there
 
 I am a **Backend Engineer** passionate about building scalable applications and clean architecture.  
 I specialize in server-side development using **ASP.NET Core**, **Entity Framework Core** and modern DevOps practices. 
@@ -30,6 +30,9 @@ Usually, in my projects I work with this stack:
   </a>
 </p>
 
+---
+## Github Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3Matvey&theme=dark&layout=compact&token=${PAT_1})
 ---
 
 You can reach me here:  
