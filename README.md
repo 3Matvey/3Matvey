@@ -35,7 +35,7 @@ Usually, in my projects I work with this stack:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3Matvey&theme=dark&layout=compact&token=${PAT_1})
 ---
 
-<detais>
+<details>
 <summary>
 <h2>You can reach me here:</h2>  
 </summary>  
@@ -48,4 +48,4 @@ Usually, in my projects I work with this stack:
 <a href="mailto:andrianov8m@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
 </a>
-</detais>
+</details>
