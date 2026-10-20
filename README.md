@@ -12,6 +12,7 @@ I enjoy designing reliable and maintainable applications, exploring different ar
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/>
+  <img src ="https://grpc.io/img/logos/grpc-icon-color.png" width="40" height="40" alt="gRPC"/>
 </p>
 
 `C#` · `ASP.NET Core` · `EF Core` · `REST APIs` · `gRPC`
