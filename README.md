@@ -43,7 +43,3 @@ I enjoy designing reliable and maintainable applications, exploring different ar
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3Matvey&theme=github_dark&layout=compact&langs_count=6)
 
 ---
-
-## 📫 Connect with Me
-
-[Telegram](https://t.me/Pram1en4yk) · [LinkedIn](https://www.linkedin.com/in/matvey-andrianov/) · [Email](mailto:andrianov8m@gmail.com)
