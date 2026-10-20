@@ -1,51 +1,48 @@
-# Hi there
 
-I am a **Backend Engineer** passionate about building scalable applications and clean architecture.  
-I specialize in server-side development using **ASP.NET Core**, **Entity Framework Core** and modern DevOps practices. 
-You can see my study and work projects here.
+# Hi there! 👋
 
----
+I'm a **Software Developer** with a strong interest in **backend development, distributed systems, and software architecture**.
 
+I enjoy designing reliable and maintainable applications, exploring different architectural approaches, and solving challenging engineering problems.
 
-Usually, in my projects I work with this stack:  
+## 🛠️ Tech Stack
+
+**Backend & Frameworks**
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/>
 </p>
 
----
-## Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3Matvey&theme=dark&layout=compact&token=${PAT_1})
+`C#` · `ASP.NET Core` · `EF Core` · `REST APIs` · `gRPC`
+
+**Databases & Messaging**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
+</p>
+
+**Tools & Infrastructure**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+</p>
+
+`Docker Compose` · `.NET Aspire` · `Git`
+
 ---
 
-<details>
-<summary>
-<h2>You can reach me here:</h2>  
-</summary>  
-<a href="https://t.me/Pram1en4yk" target="_blank" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" alt="Telegram"/>
-</a>
-<a href="https://www.linkedin.com/in/matvey-andrianov/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-<a href="mailto:andrianov8m@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
-</a>
-</details>
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3Matvey&theme=github_dark&layout=compact&langs_count=6)
+
+---
+
+## 📫 Connect with Me
+
+[Telegram](https://t.me/Pram1en4yk) · [LinkedIn](https://www.linkedin.com/in/matvey-andrianov/) · [Email](mailto:andrianov8m@gmail.com)
