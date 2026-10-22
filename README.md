@@ -7,8 +7,6 @@ I enjoy designing reliable and maintainable applications, exploring different ar
 
 ## 🛠️ Tech Stack
 
-**Backend & Frameworks**
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/>
@@ -17,8 +15,6 @@ I enjoy designing reliable and maintainable applications, exploring different ar
 
 `C#` · `ASP.NET Core` · `EF Core` · `REST APIs` · `gRPC`
 
-**Databases & Messaging**
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
@@ -26,15 +22,12 @@ I enjoy designing reliable and maintainable applications, exploring different ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
 </p>
 
-**Tools & Infrastructure**
-
+`Docker Compose` · `.NET Aspire` 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
 </p>
-
-`Docker Compose` · `.NET Aspire` · `Git`
 
 ---
 
